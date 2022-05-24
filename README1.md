@@ -10,3 +10,5 @@ As stated above, the main purpose is training example.
 THis is a simple web project, deployment can be on any web server.
 ## How to Contribute
 
+###Copyright
+2022 Git.training.
