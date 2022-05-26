@@ -10,5 +10,6 @@ As stated above, the main purpose is training example.
 THis is a simple web project, deployment can be on any web server.
 ## How to Contribute
 
+Please fork this repository and then issue Pull Requests for review.
 ###Copyright
 2022 Git.training.
